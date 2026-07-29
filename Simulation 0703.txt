@@ -1,0 +1,368 @@
+Simulation 0703
+
+MY
+
+|V|=4
+Storage_Constraint, Total_System_Cost, Total_Requests, Overall_Hit_Rate, Overall_Average_Latency, Overall_Avg_ISL_Hops,Total_DIBR_Synthesis_Cost,Total_Network_Transmission_Cost,Miss_Penalty_Cost,GS_Fetch_Cost,ISL_Cost,Serving_Cost
+600, 1566068.0,16945,0.5570347875599903,0.8565511706685636,2.2106630211893368,76503.0,1489705,816850,326740,161710,184405
+
+|V|=8
+Storage_Constraint,Total_System_Cost,Total_Requests,Overall_Hit_Rate,Overall_Average_Latency,Overall_Avg_ISL_Hops,Total_DIBR_Synthesis_Cost,Total_Network_Transmission_Cost,Miss_Penalty_Cost,GS_Fetch_Cost,ISL_Cost,Serving_Cost
+600,2132489.0,16743,0.443346080765808,0.8806172913619582,2.6419091683915745,87654.0,2044945,1157200,462880,216980,207885
+
+|V|=12
+600,2391355.0,16634,0.38995647342100387,0.8900902990187327,2.858487194758785,91065.0,2300360,1317450,526980,239970,215960
+
+
+D=3, |V|=16
+Storage_Constraint	Total_System_Cost	Total_Requests	Overall_Hit_Rate	Overall_Average_Latency	Overall_Avg_ISL_Hops	Total_DIBR_Synthesis_Cost	Total_Network_Transmission_Cost	Miss_Penalty_Cost	GS_Fetch_Cost	ISL_Cost	Serving_Cost
+200	2911242.0	16643	0.24240281073188538	0.9133249564521584	3.221830985915493	93402.0	2818150	1660350	664140	274500	219160
+400	2727168.0	16726	0.3017781003356618	0.9036159003675054	3.0599029241150704	93618.0	2633950	1539300	615720	258470	220460
+600	2546442.0	16550	0.35571327506332867	0.8953444138463511	3.0201443875174663	91737.0	2454705	1411600	564640	259370	219095
+800	2437574.0	16697	0.3951264512645126	0.8884999064849681	2.889540449976065	92244.0	2345480	1344150	537660	241450	222220
+1000	2346110.0	16784	0.42771488657210616	0.8835954960790666	2.8098483958161946	93090.0	2253180	1279000	511600	239090	223490
+1200	2246334.0	16705	0.4564471648617744	0.8780982006210502	2.7727487591585915	92079.0	2154645	1212150	484860	234630	223005
+1400	2160644.0	16699	0.4792563688554001	0.8746704475487656	2.669890003626254	91344.0	2069310	1161050	464420	220880	222960
+1600	2039509.0	16236	0.4999423976406074	0.8712378771078753	2.6498886965124906	89034.0	1950485	1085150	434060	214270	217005
+1800	2074453.0	16948	0.5182598765838768	0.868263063863117	2.608285577841452	92718.0	1981745	1096850	438740	218470	227685
+2000	1919868.0	16398	0.5457563904302738	0.8634745099372644	2.5693051359516614	89448.0	1830650	998700	399480	212610	219860
+Storage_Constraint	Total_System_Cost	Total_Requests	Overall_Hit_Rate	Overall_Average_Latency	Overall_Avg_ISL_Hops	Total_DIBR_Synthesis_Cost	Total_Network_Transmission_Cost	Miss_Penalty_Cost
+								
+
+|V|=20
+600,2689054.0,16601,0.3248005021070564,0.8996906508253645,3.0832555970149254,93354.0,2596020,1506100,602440,264420,223060
+
+
+|V|=24
+600,2751144.0,16583,0.3130146436996484,0.9020137926820571,3.1290693661566777,93714.0,2657510,1543450,617380,272010,224670
+
+
+
+|V|=28
+600,2885426.0,16748,0.28846574264352237,0.9059759525975455,3.233367568184412,95556.0,2790340,1627350,650940,283340,228710
+
+
+
+|V|=32
+Storage_Constraint,Total_System_Cost,Total_Requests,Overall_Hit_Rate,Overall_Average_Latency,Overall_Avg_ISL_Hops,Total_DIBR_Synthesis_Cost,Total_Network_Transmission_Cost,Miss_Penalty_Cost,GS_Fetch_Cost,ISL_Cost,Serving_Cost
+600,2918074.0,16703,0.2818637056390159,0.9075833141585686,3.243949771689498,95514.0,2822700,1649200,659680,284170,229650
+
+
+
+D=1
+
+600	4159085.0	16341	0.3166979520980057	0.8969016606409249	5.019432709716355	0.0	4159105	2420700	968280	415860	354265
+
+
+D=2
+600	2740160.0	16620	0.33479500583228927	0.8972456960273394	3.2321470381643644	77160.0	2663210	1539750	615900	276090	231470
+
+D=3
+600	 2546442.0	 16550	 0.35571327506332867	  0.8953444138463511	 3.0201443875174663	  91737.0	2454705	1411600	  564640	259370	219095
+
+
+D=4
+600	2171732.0	16948	0.3946485644100478	0.8940284835857278	2.45282095214784	177987.0	1993975	1145900	458360	200420	189295
+
+
+
+
+
+Mobile
+
+|V|=4
+Total system cost: 1830676.00
+Total requests processed: 16659
+Overall cache hit rate: 0.438
+Overall average latency: 0.8779 seconds
+Overall average ISL hops: 2.700
+Total DIBR synthesis cost: 75291.00
+total cache misses cost: 1018100.00
+
+
+|V|=8
+Total system cost: 2398419.00
+Total requests processed: 16563
+Overall cache hit rate: 0.340
+Overall average latency: 0.8977 seconds
+Overall average ISL hops: 3.233
+Total DIBR synthesis cost: 85644.00
+total cache misses cost: 1359350.00
+
+
+|V|=12
+Total system cost: 2662209.00
+Total requests processed: 16733
+Overall cache hit rate: 0.299
+Overall average latency: 0.9041 seconds
+Overall average ISL hops: 3.389
+Total DIBR synthesis cost: 89559.00
+total cache misses cost: 1523050.00
+
+
+D=3, |V|=16
+Storage_Constraint	Total_System_Cost	Total_Requests	Overall_Hit_Rate	Average_Latency	Average_ISL_Hops	DIBR_Synthesis_Cost	Total Cache miss
+200	3114486.0	16577	0.16504542534642563	0.9256424555680974	3.547491408934708	91596.0	1819700
+400	2910529.0	16425	0.22134660583437024	0.9160935543552332	3.496253856324372	90399.0	1689600
+600	2772571.0	16372	0.26534088293513786	0.909042878875668	3.520072716255113	88881.0	1595900
+800	2661800.0	16285	0.29432739059967583	0.9051543962116505	3.4524469067405357	88200.0	1523900
+1000	2598175.0	16487	0.3246572846928087	0.8993648122534754	3.4355098102283694	88995.0	1482850
+1200	2576515.0	16671	0.3396145898841074	0.8974095112670266	3.3932102834541857	89865.0	1470150
+1400	2446710.0	16433	0.37108132666969557	0.8928595312914845	3.3429380413057963	88020.0	1384250
+1600	2378688.0	16273	0.3853751317658921	0.891220332962138	3.3545796308954206	87108.0	1341050
+1800	2360472.0	16424	0.3955147576742178	0.8897280258470801	3.3438158819395642	87807.0	1330200
+2000	2291396.0	16378	0.41477065890061887	0.8864670577472274	3.263933262335818	87276.0	1286100
+|V|=20
+Total system cost: 2899472.00
+Total requests processed: 16426
+Overall cache hit rate: 0.238
+Overall average latency: 0.9142 seconds
+Overall average ISL hops: 3.613
+Total DIBR synthesis cost: 90432.00
+total cache misses cost: 1675400.00
+
+|V|=24
+Total system cost: 2979594.00
+Total requests processed: 16529
+Overall cache hit rate: 0.231
+Overall average latency: 0.9146 seconds
+Overall average ISL hops: 3.666
+Total DIBR synthesis cost: 91944.00
+total cache misses cost: 1723950.00
+
+|V|=28
+Total system cost: 3069542.00
+Total requests processed: 16602
+Overall cache hit rate: 0.218
+Overall average latency: 0.9176 seconds
+Overall average ISL hops: 3.740
+Total DIBR synthesis cost: 92532.00
+total cache misses cost: 1778600.00
+
+
+|V|=32
+Total system cost: 3188771.00
+Total requests processed: 16920
+Overall cache hit rate: 0.206
+Overall average latency: 0.9192 seconds
+Overall average ISL hops: 3.721
+Total DIBR synthesis cost: 94986.00
+total cache misses cost: 1848100.00
+
+===========================================
+
+D=1
+Total system cost: 4699320.00
+Total requests processed: 16833
+Overall cache hit rate: 0.229
+Overall average latency: 0.9109 seconds
+Overall average ISL hops: 5.939
+Total DIBR synthesis cost: 0.00
+total cache misses cost: 2803900.00
+
+D=2
+Total system cost: 2940453.00
+Total requests processed: 16367
+Overall cache hit rate: 0.248
+Overall average latency: 0.9095 seconds
+Overall average ISL hops: 3.780
+Total DIBR synthesis cost: 76893.00
+total cache misses cost: 1706650.00
+
+D=3
+Storage_Constraint	Total_System_Cost	Total_Requests	Overall_Hit_Rate	Average_Latency	Average_ISL_Hops	DIBR_Synthesis_Cost	Total Cache miss
+600	2772571.0	16372	0.26534088293513786	0.909042878875668	3.520072716255113	88881.0	1595900
+Total system cost: 2784933.00
+Total requests processed: 16527
+Overall cache hit rate: 0.267
+Overall average latency: 0.9086 seconds
+Overall average ISL hops: 3.534
+Total DIBR synthesis cost: 89733.00
+total cache misses cost: 1600550.00
+
+D=4
+Total system cost: 2293075.00
+Total requests processed: 16471
+Overall cache hit rate: 0.318
+Overall average latency: 0.9080 seconds
+Overall average ISL hops: 2.757
+Total DIBR synthesis cost: 172680.00
+total cache misses cost: 1251450.00
+
+
+RFP
+|V|=4
+Storage	Total_Cost	Hit_Rate	Avg_Latency	Avg_ISL_Hops	DIBR_Cost	Network_Cost	Total_Cache_Misses
+600	1512001.0	0.5970052267269388	0.8437455005860836	3.0536769921967366	53718.0	713000	14264
+|V|=8
+Storage	Total_Cost	Hit_Rate	Avg_Latency	Avg_ISL_Hops	DIBR_Cost	Network_Cost	Total_Cache_Misses
+600	2121536.0	0.4648918713722417	0.8771094618390709	3.3698351772409123	57184.5	1092450	21849
+
+|V|=12
+Storage	Total_Cost	Hit_Rate	Avg_Latency	Avg_ISL_Hops	DIBR_Cost	Network_Cost	Total_Cache_Misses
+600	2357418.0	0.43402445010635565	0.8839444761308201	3.7983283326189454	59371.5	1210500	24213
+
+D=3, |V|=16
+Storage	Total_Cost	Hit_Rate	Avg_Latency	Avg_ISL_Hops	DIBR_Cost	Network_Cost
+200	2981874.0	0.2069810308219977	0.9206206172911139	3.653318502039303	56029.5	2888625
+400	2800086.0	0.27051636431209497	0.9112248585506967	3.560713855058483	55207.5	2708055
+600	2704978.0	0.31201394783326836	0.905069601030598	3.5747669209347377	55999.5	2612005
+800	2647549.0	0.35667672911302495	0.8954593740253497	3.55974242785595	57007.5	2552380
+1000	2422377.0	0.40091996320147194	0.886202813408738	3.585026474572097	54478.5	2331270
+1200	2310548.0	0.4338714900309941	0.8786325116124934	3.597378508717695	54489.0	2219780
+1400	2308252.0	0.43723680879950294	0.8771435250592546	3.624168653532438	54247.5	2217595
+1600	2249157.0	0.45540195273291356	0.8741570024479713	3.4134725582579906	54208.5	2158140
+1800	2222398.0	0.4775055679287305	0.8675152313053921	3.351042196237926	54699.0	2130010
+2000	2174462.0	0.4783290529330212	0.8683258155397726	3.312178166838311	53902.5	2083715
+Storage	Total_Cost	Hit_Rate	Avg_Latency	Avg_ISL_Hops	DIBR_Cost	Cache miss cost
+200	3073672.0	0.19973982700778237	0.9214164982000193	3.617654000472032	56413.5	1752500
+400	2841704.0	0.2730603645690208	0.9114272654553113	3.6799425905992105	56667.0	1586950
+600	2682171.0	0.312384087537092	0.9053577898660312	3.580664507616649	56149.5	1482450
+800	2562790.0	0.362346564642117	0.8936610544484159	3.579751200886809	55870.5	1399700
+1000	2483222.0	0.3962618514244337	0.886991614478585	3.625510449195292	56143.5	1333600
+1200	2398052.0	0.42661755788622635	0.8800419332103593	3.612409741769673	55738.5	1276500
+1400	2312937.0	0.4397235905856596	0.876621230296807	3.542771385692846	54325.5	1228100
+1600	2237683.0	0.46153846153846156	0.8707054783258321	3.38197261663286	54627.0	1185150
+1800	2172714.0	0.46906836306642696	0.8693267496805319	3.328957731688107	53610.0	1151500
+2000	2199026.0	0.4812671745492728	0.8672917463010471	3.2750981136852766	54178.5	1160650
+Storage	Total_Cost	Hit_Rate	Avg_Latency	Avg_ISL_Hops	DIBR_Cost	Cache miss cost
+200	3070503.0	0.24799030943728664	0.9154088267343469	3.7187827911857294	60117.0	1707100
+400	2770560.0	0.31645282676701275	0.9066790991842818	3.714595062797748	59259.0	1507600
+600	2594850.0	0.36295131986500856	0.9001359366970363	3.7450711649973645	58236.0	1377900
+800	2440964.0	0.42338158972958206	0.8881615607468771	3.7545183925154157	58854.0	1266450
+1000	2292453.0	0.4637332655090291	0.8792555809131081	3.784539126766505	58632.0	1159450
+1200	2347435.0	0.4568982857653711	0.8802764853378406	3.4983964079538166	58710.0	1214950
+1400	2306446.0	0.4966737191092111	0.8733552557176371	3.645937813440321	60973.5	1153800
+1600	2173959.0	0.5090030542006655	0.8705541470167214	3.6511387163561078	58267.5	1077000
+1800	2138180.0	0.5112160836128796	0.869551297715415	3.465772383689982	58555.5	1070900
+2000	2114113.0	0.5222915484968803	0.8684608280821693	3.413738856843209	58716.0	1052700
+
+|V|=20
+Storage	Total_Cost	Hit_Rate	Avg_Latency	Avg_ISL_Hops	DIBR_Cost	Network_Cost	Total_Cache_Misses
+600	2811279.0	0.32927233000066214	0.9058575434899759	3.776679634107875	60207.0	1519450	30390
+
+|V|=24
+Storage	Total_Cost	Hit_Rate	Avg_Latency	Avg_ISL_Hops	DIBR_Cost	Network_Cost	Total_Cache_Misses
+600	2869847.0	0.3212106580044774	0.9075047860616656	3.9167528438469494	59839.5	1546200	30927
+
+|V|=28
+Storage	Total_Cost	Hit_Rate	Avg_Latency	Avg_ISL_Hops	DIBR_Cost	Network_Cost	Total_Cache_Misses
+600	2980286.0	0.2962082748190559	0.9106419592383578	3.852412784625026	60199.5	1628650	32575
+
+|V|=32
+Storage	Total_Cost	Hit_Rate	Avg_Latency	Avg_ISL_Hops	DIBR_Cost	Network_Cost	Total_Cache_Misses
+600	2989817.0	0.2835820895522388	0.912356197501032	3.83612325407826	59253.0	1644000	32880
+
+
+
+D=1
+Storage	Total_Cost	Hit_Rate	Avg_Latency	Avg_ISL_Hops	DIBR_Cost	Network_Cost	Total_Cache_Misses
+600	4401440.0	0.28072756074792793	0.903615868036942	6.0396590066716085	0	2542200	50854
+Storage	Total_Cost	Hit_Rate	Avg_Latency	Avg_ISL_Hops	DIBR_Cost	Network_Cost	Total_Cache_Misses
+600	4200320.0	0.33867075490446585	0.8961721861720834	6.365349214943151	0	2328750	46588
+
+D=2
+Storage	Total_Cost	Hit_Rate	Avg_Latency	Avg_ISL_Hops	DIBR_Cost	Network_Cost	Total_Cache_Misses
+600	2830206.0	0.3010419662411787	0.9047225800340437	3.9158866995073893	37495.5	1579450	31595
+Storage	Total_Cost	Hit_Rate	Avg_Latency	Avg_ISL_Hops	DIBR_Cost	Network_Cost	Total_Cache_Misses
+600	2747174.0	0.3557835006547359	0.8977285942234953	4.099455337690632	37812.0	1475800	29518
+
+D=3
+600	2682171.0	0.312384087537092	0.9053577898660312	3.580664507616649	56149.5	1482450
+Storage	Total_Cost	Hit_Rate	Avg_Latency	Avg_ISL_Hops	DIBR_Cost	Network_Cost	Total_Cache_Misses
+600	2738758.0	0.3135483578092017	0.905198889233109	3.641986989946777	56701.5	1511800	30243
+Storage	Total_Cost	Hit_Rate	Avg_Latency	Avg_ISL_Hops	DIBR_Cost	Network_Cost	Total_Cache_Misses
+600	2547587.0	0.36984352773826457	0.8989132287980599	3.7411790017211706	58410.0	1351100	27023
+
+D=4
+Storage	Total_Cost	Hit_Rate	Avg_Latency	Avg_ISL_Hops	DIBR_Cost	Network_Cost	Total_Cache_Misses
+600	2250887.0	0.35293794618341573	0.9017236610256457	2.8764492753623188	187105.5	1178200	23566
+Storage	Total_Cost	Hit_Rate	Avg_Latency	Avg_ISL_Hops	DIBR_Cost	Network_Cost	Total_Cache_Misses
+600	2221285.0	0.38129791894852133	0.8986677864219215	2.987350126498735	192679.5	1129650	22595
+
+
+SCA
+
+
+
+D=3, |V|=16
+Storage  Total Cost   Hit Rate   Avg Latency  Avg ISL Hops  DIBR Cost    Network Cost
+--------------------------------------------------------------------------------
+200      3161240.00   0.149      0.9289       3.649         91530.00     3069940.00  
+400      3073058.00   0.189      0.9226       3.553         92673.00     2980915.00  
+600      3010693.00   0.229      0.9168       3.498         94188.00     2916715.00  
+800      2871829.00   0.250      0.9146       3.471         91644.00     2780615.00  
+1000     2825486.00   0.274      0.9107       3.422         91986.00     2733570.00  
+1200     2688310.00   0.291      0.9096       3.335         89025.00     2599795.00  
+1400     2706256.00   0.302      0.9075       3.294         91011.00     2615245.00  
+1600     2652091.00   0.315      0.9061       3.250         90276.00     2561915.00  
+1800     2654924.00   0.324      0.9049       3.239         91479.00     2563525.00  
+2000     2614861.00   0.321      0.9051       3.212         89886.00     2524975.00 
+
+
+
+|V|=4
+Storage  Total Cost   Hit Rate   Avg Latency  Avg ISL Hops  DIBR Cost    Cache Miss Cost Network Cost Total Requests
+--------------------------------------------------------------------------------
+600      1945575.00   0.381      0.8907       2.647         76860.00     1097300.00   1868805.00   16446  
+
+|v|=8
+Storage  Total Cost   Hit Rate   Avg Latency  Avg ISL Hops  DIBR Cost    Cache Miss Cost Network Cost Total Requests
+--------------------------------------------------------------------------------
+600      2467971.00   0.297      0.9065       3.217         84156.00     1410000.00   2383955.00   16190 
+
+|V|=12
+Storage  Total Cost   Hit Rate   Avg Latency  Avg ISL Hops  DIBR Cost    Cache Miss Cost Network Cost Total Requests
+--------------------------------------------------------------------------------
+600      2774693.00   0.253      0.9130       3.373         89313.00     1599300.00   2685650.00   16561  
+
+|V|=16
+Storage  Total Cost   Hit Rate   Avg Latency  Avg ISL Hops  DIBR Cost    Cache Miss Cost Network Cost Total Requests
+--------------------------------------------------------------------------------
+600      2941922.00   0.228      0.9174       3.475         91992.00     1703650.00   2850070.00   16701  
+
+|V|=20
+Storage  Total Cost   Hit Rate   Avg Latency  Avg ISL Hops  DIBR Cost    Cache Miss Cost Network Cost Total Requests
+--------------------------------------------------------------------------------
+600      3049716.00   0.208      0.9204       3.536         92271.00     1769150.00   2957915.00   16653
+
+|V|=24
+Storage  Total Cost   Hit Rate   Avg Latency  Avg ISL Hops  DIBR Cost    Cache Miss Cost Network Cost Total Requests
+--------------------------------------------------------------------------------
+600      3153960.00   0.195      0.9228       3.670         93240.00     1826000.00   3060860.00   16722  
+
+|V|=28
+Storage  Total Cost   Hit Rate   Avg Latency  Avg ISL Hops  DIBR Cost    Cache Miss Cost Network Cost Total Requests
+--------------------------------------------------------------------------------
+600      3129783.00   0.186      0.9234       3.617         91818.00     1823350.00   3038115.00   16430  
+
+|V|=32
+Storage  Total Cost   Hit Rate   Avg Latency  Avg ISL Hops  DIBR Cost    Cache Miss Cost Network Cost Total Requests
+--------------------------------------------------------------------------------
+600      3305886.00   0.168      0.9261       3.686         95901.00     1929950.00   3210215.00   16901 
+
+
+
+D=1
+Storage  Total Cost   Hit Rate   Avg Latency  Avg ISL Hops  DIBR Cost    Cache Miss Cost Network Cost Total Requests
+--------------------------------------------------------------------------------
+600      4890505.00   0.190      0.9179       5.969         0.00         2926050.00   4891495.00   16679   
+
+D=2
+FINAL RESULTS SUMMARY
+================================================================================
+Storage  Total Cost   Hit Rate   Avg Latency  Avg ISL Hops  DIBR Cost    Cache Miss Cost Network Cost Total Requests
+--------------------------------------------------------------------------------
+600      3148462.00   0.212      0.9167       3.693         79182.00     1839550.00   3069360.00   16892   
+
+D=3
+|V|=16
+Storage  Total Cost   Hit Rate   Avg Latency  Avg ISL Hops  DIBR Cost    Cache Miss Cost Network Cost Total Requests
+--------------------------------------------------------------------------------
+600      2941922.00   0.228      0.9174       3.475         91992.00     1703650.00   2850070.00   16701  
+
+D=4
+Storage  Total Cost   Hit Rate   Avg Latency  Avg ISL Hops  DIBR Cost    Cache Miss Cost Network Cost Total Requests
+--------------------------------------------------------------------------------
+600      2409073.00   0.272      0.9174       2.720         177333.00    1326200.00   2231910.00   16528    
+

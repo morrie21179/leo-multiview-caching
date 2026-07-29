@@ -1,0 +1,2 @@
+storage,total_cost,hit_rate,avg_latency,avg_isl_hops,dibr_cost,total_cache_miss_cost,network_cost,Total Requests
+600,2937138.0,0.2237700059276823,0.9810089178742646,3.4864130434782608,90858.0,1702350,2846370,16558

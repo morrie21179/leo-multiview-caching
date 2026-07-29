@@ -1,0 +1,16 @@
+# Three Baselines
+1. EAYB: Mobile proxy caching adapted to LEO, DIBR synthesis, no ISL cooperation
+(M. Yeh, C. -H. Wang, D. -N. Yang, J. -T. Lee and W. Liao, "Mobile Proxy Caching for Multi-View 3D Videos With Adaptive View Selection," in IEEE Transactions on Mobile Computing, vol. 21, no. 8, pp. 2909-2921, 1 Aug. 2022)
+
+2. SCA+EAYB: EAYB + satellite-based cooperative caching with K-means clustering
+(S. Bhandari, T. X. Vu and S. Chatzinotas, "User-Centric Flexible Resource Management Framework for LEO Satellites With Fully Regenerative Payload," in IEEE Journal on Selected Areas in Communications, vol. 42, no. 5, pp. 1246-1261, May 2024)
+
+3. RFP+EAYB: EAYB + ridge regression prediction for regional content placement
+(J. Tang et al., "Cooperative Caching in Satellite-Terrestrial Integrated Networks: A Region Features Aware Approach," in IEEE Transactions on Vehicular Technology, vol. 73, no. 7, pp. 10602-10616, July 2024)
+
+
+
+
+# Other Unused Baselines
+1. ESM
+(S. Liu, X. Hu, Y. Wang, G. Cui and W. Wang, "Distributed Caching Based on Matching Game in LEO Satellite Constellation Networks," in IEEE Communications Letters, vol. 22, no. 2, pp. 300-303, Feb. 2018)
